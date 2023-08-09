@@ -2,6 +2,8 @@
 
 Welcome to **Sacagawea**, a captivating web-based tool designed to visualize the generation and navigation of a maze using recursive Backtracking.. Not only does Sacagawea carve out a unique maze for you, but it also simulates the journey of a mouse 🐭 through the maze, showcasing the algorithm's capabilities!
 
+Live preview at https://openprocessing.org/sketch/1952364
+
 ### 🌟 Features
 
 - **🌀 Maze Generation**: Constructs a visually pleasing maze using Recursive Backtracking.
