@@ -37,7 +37,7 @@ Live preview at https://openprocessing.org/sketch/1952364
 
 ### 🤝 Contributions
 
-Your collaboration can help make Sacagawea even better! 🤗 If you've got ideas, suggestions, or improvements in mind, please feel free to contribute.
+Your collaboration can help make Sacagawea even better! 🤗 If you've got ideas, suggestions, or improvements in mind, please feel free to make a PR request.
 
 ### 📜 License
 
