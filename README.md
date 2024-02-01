@@ -7,7 +7,7 @@ Live preview at https://openprocessing.org/sketch/1952364
 ### 🌟 Features
 
 - **🌀 Maze Generation**: Constructs a visually pleasing maze using Recursive Backtracking.
-- **🐭 Mouse Simulation**: Watches as a mouse navigates its way through the maze.
+- **🐭 Bot Simulation**: Watches as a mouse navigates its way through the maze.
 - **🎨 Visual Appeal**: Distinct colors and visual elements make understanding and visualization easier.
 
 ### 📋 Usage
